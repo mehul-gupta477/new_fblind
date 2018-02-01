@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Feb 01 02:10:06 IST 2018
+1.base=C\:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=beep.wav
