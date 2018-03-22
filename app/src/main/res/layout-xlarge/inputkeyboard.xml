@@ -11,7 +11,8 @@
 	
 	<LinearLayout android:layout_width="fill_parent" android:layout_height="0px" android:layout_weight="2" android:layout_gravity="center_vertical" android:paddingLeft="30dp" android:paddingRight="30dp">
 		<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:gravity="center_vertical">
-			<ar.com.lrusso.blindcommunicator.SingleLineTextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:gravity="center_horizontal" android:textColor="#FFFFFF" android:background="@drawable/rounded_corner" android:textSize="80sp" android:id="@+id/message" android:text="_" />
+			<org.project.harsh.fblind.SingleLineTextView
+                android:layout_width="fill_parent" android:layout_height="wrap_content" android:gravity="center_horizontal" android:textColor="#FFFFFF" android:background="@drawable/rounded_corner" android:textSize="80sp" android:id="@+id/message" android:text="_" />
 		</RelativeLayout>
 	</LinearLayout>
 

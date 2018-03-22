@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="project.com.fblind.pr.test">
+    package="org.project.harsh.fblind.test">
 
     <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="27" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="project.com.fblind.pr"
+                     android:targetPackage="org.project.harsh.fblind"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for project.com.fblind.pr"/>
+                     android:label="Tests for org.project.harsh.fblind"/>
 </manifest>

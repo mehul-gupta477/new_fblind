@@ -5,7 +5,7 @@ android {
     buildToolsVersion "27.0.3"
 
     defaultConfig {
-        applicationId "project.com.fblind.pr"
+        applicationId "org.project.harsh.fblind"
         minSdkVersion 19
         targetSdkVersion 27
     }

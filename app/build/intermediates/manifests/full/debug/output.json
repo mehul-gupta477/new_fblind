@@ -1,1 +1,1 @@
-[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":44},"path":"AndroidManifest.xml","properties":{"packageId":"project.com.fblind.pr","split":"","minSdkVersion":"19"}}]
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":44},"path":"AndroidManifest.xml","properties":{"packageId":"org.project.harsh.fblind","split":"","minSdkVersion":"19"}}]

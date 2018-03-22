@@ -3329,35 +3329,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background project.com.fblind.pr:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit project.com.fblind.pr:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked project.com.fblind.pr:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd project.com.fblind.pr:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions project.com.fblind.pr:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft project.com.fblind.pr:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight project.com.fblind.pr:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart project.com.fblind.pr:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation project.com.fblind.pr:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout project.com.fblind.pr:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions project.com.fblind.pr:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider project.com.fblind.pr:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation project.com.fblind.pr:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height project.com.fblind.pr:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll project.com.fblind.pr:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator project.com.fblind.pr:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout project.com.fblind.pr:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon project.com.fblind.pr:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle project.com.fblind.pr:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding project.com.fblind.pr:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo project.com.fblind.pr:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode project.com.fblind.pr:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme project.com.fblind.pr:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding project.com.fblind.pr:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle project.com.fblind.pr:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle project.com.fblind.pr:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle project.com.fblind.pr:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title project.com.fblind.pr:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle project.com.fblind.pr:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background org.project.harsh.fblind:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit org.project.harsh.fblind:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked org.project.harsh.fblind:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd org.project.harsh.fblind:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions org.project.harsh.fblind:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft org.project.harsh.fblind:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight org.project.harsh.fblind:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart org.project.harsh.fblind:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation org.project.harsh.fblind:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout org.project.harsh.fblind:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions org.project.harsh.fblind:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider org.project.harsh.fblind:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation org.project.harsh.fblind:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height org.project.harsh.fblind:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll org.project.harsh.fblind:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator org.project.harsh.fblind:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout org.project.harsh.fblind:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon org.project.harsh.fblind:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle org.project.harsh.fblind:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding org.project.harsh.fblind:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo org.project.harsh.fblind:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode org.project.harsh.fblind:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme org.project.harsh.fblind:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding org.project.harsh.fblind:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle org.project.harsh.fblind:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle org.project.harsh.fblind:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle org.project.harsh.fblind:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title org.project.harsh.fblind:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle org.project.harsh.fblind:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3400,17 +3400,17 @@ containing a value of this type.
             0x7f010063
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#background}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:background
+          @attr name org.project.harsh.fblind:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3418,11 +3418,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name project.com.fblind.pr:backgroundSplit
+          @attr name org.project.harsh.fblind:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3430,11 +3430,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name project.com.fblind.pr:backgroundStacked
+          @attr name org.project.harsh.fblind:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3446,11 +3446,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetEnd
+          @attr name org.project.harsh.fblind:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3462,11 +3462,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetEndWithActions
+          @attr name org.project.harsh.fblind:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3478,11 +3478,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetLeft
+          @attr name org.project.harsh.fblind:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3494,11 +3494,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetRight
+          @attr name org.project.harsh.fblind:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3510,11 +3510,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetStart
+          @attr name org.project.harsh.fblind:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3526,21 +3526,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetStartWithNavigation
+          @attr name org.project.harsh.fblind:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:customNavigationLayout
+          @attr name org.project.harsh.fblind:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3558,21 +3558,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:displayOptions
+          @attr name org.project.harsh.fblind:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#divider}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:divider
+          @attr name org.project.harsh.fblind:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#elevation}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3584,11 +3584,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:elevation
+          @attr name org.project.harsh.fblind:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#height}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3600,11 +3600,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:height
+          @attr name org.project.harsh.fblind:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3614,51 +3614,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:hideOnContentScroll
+          @attr name org.project.harsh.fblind:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:homeAsUpIndicator
+          @attr name org.project.harsh.fblind:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:homeLayout
+          @attr name org.project.harsh.fblind:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#icon}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:icon
+          @attr name org.project.harsh.fblind:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:indeterminateProgressStyle
+          @attr name org.project.harsh.fblind:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3670,21 +3670,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:itemPadding
+          @attr name org.project.harsh.fblind:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#logo}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:logo
+          @attr name org.project.harsh.fblind:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3698,21 +3698,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:navigationMode
+          @attr name org.project.harsh.fblind:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:popupTheme
+          @attr name org.project.harsh.fblind:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3724,21 +3724,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:progressBarPadding
+          @attr name org.project.harsh.fblind:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:progressBarStyle
+          @attr name org.project.harsh.fblind:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3748,21 +3748,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:subtitle
+          @attr name org.project.harsh.fblind:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:subtitleTextStyle
+          @attr name org.project.harsh.fblind:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#title}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3772,17 +3772,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:title
+          @attr name org.project.harsh.fblind:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:titleTextStyle
+          @attr name org.project.harsh.fblind:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3834,12 +3834,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background project.com.fblind.pr:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit project.com.fblind.pr:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout project.com.fblind.pr:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height project.com.fblind.pr:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle project.com.fblind.pr:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle project.com.fblind.pr:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background org.project.harsh.fblind:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit org.project.harsh.fblind:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout org.project.harsh.fblind:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height org.project.harsh.fblind:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle org.project.harsh.fblind:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle org.project.harsh.fblind:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3853,17 +3853,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#background}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:background
+          @attr name org.project.harsh.fblind:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3871,21 +3871,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name project.com.fblind.pr:backgroundSplit
+          @attr name org.project.harsh.fblind:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:closeItemLayout
+          @attr name org.project.harsh.fblind:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#height}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3897,27 +3897,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:height
+          @attr name org.project.harsh.fblind:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:subtitleTextStyle
+          @attr name org.project.harsh.fblind:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:titleTextStyle
+          @attr name org.project.harsh.fblind:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3926,8 +3926,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable project.com.fblind.pr:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount project.com.fblind.pr:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable org.project.harsh.fblind:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount org.project.harsh.fblind:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3936,17 +3936,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001f, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:expandActivityOverflowButtonDrawable
+          @attr name org.project.harsh.fblind:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3956,7 +3956,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:initialActivityCount
+          @attr name org.project.harsh.fblind:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -3966,12 +3966,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout project.com.fblind.pr:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout project.com.fblind.pr:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout project.com.fblind.pr:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout project.com.fblind.pr:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle project.com.fblind.pr:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout project.com.fblind.pr:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout org.project.harsh.fblind:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout org.project.harsh.fblind:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout org.project.harsh.fblind:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout org.project.harsh.fblind:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle org.project.harsh.fblind:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout org.project.harsh.fblind:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3992,47 +3992,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:buttonPanelSideLayout
+          @attr name org.project.harsh.fblind:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:listItemLayout
+          @attr name org.project.harsh.fblind:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:listLayout
+          @attr name org.project.harsh.fblind:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:multiChoiceItemLayout
+          @attr name org.project.harsh.fblind:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4042,17 +4042,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:showTitle
+          @attr name org.project.harsh.fblind:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:singleChoiceItemLayout
+          @attr name org.project.harsh.fblind:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4062,9 +4062,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat project.com.fblind.pr:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint project.com.fblind.pr:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode project.com.fblind.pr:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat org.project.harsh.fblind:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint org.project.harsh.fblind:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode org.project.harsh.fblind:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4081,17 +4081,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:srcCompat
+          @attr name org.project.harsh.fblind:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#tint}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4102,11 +4102,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:tint
+          @attr name org.project.harsh.fblind:tint
         */
         public static final int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4123,7 +4123,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:tintMode
+          @attr name org.project.harsh.fblind:tintMode
         */
         public static final int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4133,9 +4133,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark project.com.fblind.pr:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint project.com.fblind.pr:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode project.com.fblind.pr:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark org.project.harsh.fblind:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint org.project.harsh.fblind:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode org.project.harsh.fblind:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4152,17 +4152,17 @@ containing a value of this type.
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:tickMark
+          @attr name org.project.harsh.fblind:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4173,11 +4173,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:tickMarkTint
+          @attr name org.project.harsh.fblind:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4194,7 +4194,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:tickMarkTintMode
+          @attr name org.project.harsh.fblind:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4272,13 +4272,13 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize project.com.fblind.pr:autoSizeMaxTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize project.com.fblind.pr:autoSizeMinTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes project.com.fblind.pr:autoSizePresetSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity project.com.fblind.pr:autoSizeStepGranularity}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType project.com.fblind.pr:autoSizeTextType}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_fontFamily project.com.fblind.pr:fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps project.com.fblind.pr:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize org.project.harsh.fblind:autoSizeMaxTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize org.project.harsh.fblind:autoSizeMinTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes org.project.harsh.fblind:autoSizePresetSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity org.project.harsh.fblind:autoSizeStepGranularity}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType org.project.harsh.fblind:autoSizeTextType}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_fontFamily org.project.harsh.fblind:fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps org.project.harsh.fblind:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_autoSizeMaxTextSize
@@ -4300,7 +4300,7 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#autoSizeMaxTextSize}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#autoSizeMaxTextSize}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4312,11 +4312,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:autoSizeMaxTextSize
+          @attr name org.project.harsh.fblind:autoSizeMaxTextSize
         */
         public static final int AppCompatTextView_autoSizeMaxTextSize = 6;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#autoSizeMinTextSize}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#autoSizeMinTextSize}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4328,21 +4328,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:autoSizeMinTextSize
+          @attr name org.project.harsh.fblind:autoSizeMinTextSize
         */
         public static final int AppCompatTextView_autoSizeMinTextSize = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#autoSizePresetSizes}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#autoSizePresetSizes}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:autoSizePresetSizes
+          @attr name org.project.harsh.fblind:autoSizePresetSizes
         */
         public static final int AppCompatTextView_autoSizePresetSizes = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#autoSizeStepGranularity}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#autoSizeStepGranularity}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4354,11 +4354,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:autoSizeStepGranularity
+          @attr name org.project.harsh.fblind:autoSizeStepGranularity
         */
         public static final int AppCompatTextView_autoSizeStepGranularity = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#autoSizeTextType}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#autoSizeTextType}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4371,11 +4371,11 @@ containing a value of this type.
 <tr><td><code>none</code></td><td>0</td><td></td></tr>
 <tr><td><code>uniform</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:autoSizeTextType
+          @attr name org.project.harsh.fblind:autoSizeTextType
         */
         public static final int AppCompatTextView_autoSizeTextType = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontFamily}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontFamily}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4385,18 +4385,18 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:fontFamily
+          @attr name org.project.harsh.fblind:fontFamily
         */
         public static final int AppCompatTextView_fontFamily = 7;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name project.com.fblind.pr:textAllCaps
+          @attr name org.project.harsh.fblind:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4405,125 +4405,125 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider project.com.fblind.pr:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground project.com.fblind.pr:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme project.com.fblind.pr:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize project.com.fblind.pr:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle project.com.fblind.pr:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle project.com.fblind.pr:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle project.com.fblind.pr:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle project.com.fblind.pr:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle project.com.fblind.pr:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme project.com.fblind.pr:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme project.com.fblind.pr:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle project.com.fblind.pr:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle project.com.fblind.pr:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance project.com.fblind.pr:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor project.com.fblind.pr:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground project.com.fblind.pr:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle project.com.fblind.pr:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable project.com.fblind.pr:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable project.com.fblind.pr:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable project.com.fblind.pr:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable project.com.fblind.pr:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable project.com.fblind.pr:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle project.com.fblind.pr:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable project.com.fblind.pr:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable project.com.fblind.pr:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground project.com.fblind.pr:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle project.com.fblind.pr:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable project.com.fblind.pr:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle project.com.fblind.pr:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle project.com.fblind.pr:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle project.com.fblind.pr:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle project.com.fblind.pr:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons project.com.fblind.pr:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle project.com.fblind.pr:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme project.com.fblind.pr:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider org.project.harsh.fblind:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground org.project.harsh.fblind:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme org.project.harsh.fblind:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize org.project.harsh.fblind:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle org.project.harsh.fblind:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle org.project.harsh.fblind:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle org.project.harsh.fblind:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle org.project.harsh.fblind:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle org.project.harsh.fblind:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme org.project.harsh.fblind:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme org.project.harsh.fblind:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle org.project.harsh.fblind:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle org.project.harsh.fblind:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance org.project.harsh.fblind:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor org.project.harsh.fblind:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground org.project.harsh.fblind:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle org.project.harsh.fblind:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable org.project.harsh.fblind:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable org.project.harsh.fblind:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable org.project.harsh.fblind:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable org.project.harsh.fblind:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable org.project.harsh.fblind:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle org.project.harsh.fblind:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable org.project.harsh.fblind:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable org.project.harsh.fblind:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground org.project.harsh.fblind:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle org.project.harsh.fblind:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable org.project.harsh.fblind:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle org.project.harsh.fblind:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle org.project.harsh.fblind:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle org.project.harsh.fblind:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle org.project.harsh.fblind:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons org.project.harsh.fblind:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle org.project.harsh.fblind:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme org.project.harsh.fblind:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle project.com.fblind.pr:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle project.com.fblind.pr:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle project.com.fblind.pr:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle project.com.fblind.pr:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle project.com.fblind.pr:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle project.com.fblind.pr:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle project.com.fblind.pr:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle project.com.fblind.pr:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall project.com.fblind.pr:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle project.com.fblind.pr:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle project.com.fblind.pr:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent project.com.fblind.pr:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating project.com.fblind.pr:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal project.com.fblind.pr:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated project.com.fblind.pr:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight project.com.fblind.pr:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal project.com.fblind.pr:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorError project.com.fblind.pr:colorError}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary project.com.fblind.pr:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark project.com.fblind.pr:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal project.com.fblind.pr:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground project.com.fblind.pr:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding project.com.fblind.pr:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme project.com.fblind.pr:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal project.com.fblind.pr:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical project.com.fblind.pr:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle project.com.fblind.pr:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight project.com.fblind.pr:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground project.com.fblind.pr:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor project.com.fblind.pr:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle project.com.fblind.pr:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator project.com.fblind.pr:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle project.com.fblind.pr:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator project.com.fblind.pr:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog project.com.fblind.pr:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle project.com.fblind.pr:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle project.com.fblind.pr:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight project.com.fblind.pr:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge project.com.fblind.pr:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall project.com.fblind.pr:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft project.com.fblind.pr:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight project.com.fblind.pr:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground project.com.fblind.pr:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme project.com.fblind.pr:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth project.com.fblind.pr:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle project.com.fblind.pr:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle project.com.fblind.pr:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle project.com.fblind.pr:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle project.com.fblind.pr:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator project.com.fblind.pr:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall project.com.fblind.pr:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle project.com.fblind.pr:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle project.com.fblind.pr:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground project.com.fblind.pr:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless project.com.fblind.pr:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle project.com.fblind.pr:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle project.com.fblind.pr:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle project.com.fblind.pr:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu project.com.fblind.pr:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem project.com.fblind.pr:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary project.com.fblind.pr:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall project.com.fblind.pr:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader project.com.fblind.pr:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle project.com.fblind.pr:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle project.com.fblind.pr:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu project.com.fblind.pr:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem project.com.fblind.pr:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl project.com.fblind.pr:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle project.com.fblind.pr:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle project.com.fblind.pr:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor project.com.fblind.pr:tooltipForegroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground project.com.fblind.pr:tooltipFrameBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar project.com.fblind.pr:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay project.com.fblind.pr:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay project.com.fblind.pr:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor project.com.fblind.pr:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor project.com.fblind.pr:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor project.com.fblind.pr:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor project.com.fblind.pr:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor project.com.fblind.pr:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor project.com.fblind.pr:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle project.com.fblind.pr:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle org.project.harsh.fblind:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle org.project.harsh.fblind:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle org.project.harsh.fblind:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle org.project.harsh.fblind:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle org.project.harsh.fblind:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle org.project.harsh.fblind:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle org.project.harsh.fblind:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle org.project.harsh.fblind:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall org.project.harsh.fblind:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle org.project.harsh.fblind:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle org.project.harsh.fblind:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent org.project.harsh.fblind:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating org.project.harsh.fblind:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal org.project.harsh.fblind:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated org.project.harsh.fblind:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight org.project.harsh.fblind:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal org.project.harsh.fblind:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorError org.project.harsh.fblind:colorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary org.project.harsh.fblind:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark org.project.harsh.fblind:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal org.project.harsh.fblind:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground org.project.harsh.fblind:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding org.project.harsh.fblind:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme org.project.harsh.fblind:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal org.project.harsh.fblind:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical org.project.harsh.fblind:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle org.project.harsh.fblind:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight org.project.harsh.fblind:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground org.project.harsh.fblind:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor org.project.harsh.fblind:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle org.project.harsh.fblind:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator org.project.harsh.fblind:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle org.project.harsh.fblind:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator org.project.harsh.fblind:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog org.project.harsh.fblind:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle org.project.harsh.fblind:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle org.project.harsh.fblind:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight org.project.harsh.fblind:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge org.project.harsh.fblind:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall org.project.harsh.fblind:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft org.project.harsh.fblind:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight org.project.harsh.fblind:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground org.project.harsh.fblind:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme org.project.harsh.fblind:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth org.project.harsh.fblind:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle org.project.harsh.fblind:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle org.project.harsh.fblind:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle org.project.harsh.fblind:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle org.project.harsh.fblind:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator org.project.harsh.fblind:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall org.project.harsh.fblind:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle org.project.harsh.fblind:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle org.project.harsh.fblind:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground org.project.harsh.fblind:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless org.project.harsh.fblind:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle org.project.harsh.fblind:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle org.project.harsh.fblind:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle org.project.harsh.fblind:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu org.project.harsh.fblind:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem org.project.harsh.fblind:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary org.project.harsh.fblind:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall org.project.harsh.fblind:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader org.project.harsh.fblind:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle org.project.harsh.fblind:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle org.project.harsh.fblind:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu org.project.harsh.fblind:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem org.project.harsh.fblind:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl org.project.harsh.fblind:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle org.project.harsh.fblind:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle org.project.harsh.fblind:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor org.project.harsh.fblind:tooltipForegroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground org.project.harsh.fblind:tooltipFrameBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar org.project.harsh.fblind:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay org.project.harsh.fblind:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay org.project.harsh.fblind:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor org.project.harsh.fblind:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor org.project.harsh.fblind:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor org.project.harsh.fblind:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor org.project.harsh.fblind:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor org.project.harsh.fblind:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor org.project.harsh.fblind:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle org.project.harsh.fblind:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4678,37 +4678,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a6, 0x7f0100a7, 0x7f0100a8
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarDivider
+          @attr name org.project.harsh.fblind:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarItemBackground
+          @attr name org.project.harsh.fblind:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarPopupTheme
+          @attr name org.project.harsh.fblind:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4728,111 +4728,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:actionBarSize
+          @attr name org.project.harsh.fblind:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarSplitStyle
+          @attr name org.project.harsh.fblind:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarStyle
+          @attr name org.project.harsh.fblind:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarTabBarStyle
+          @attr name org.project.harsh.fblind:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarTabStyle
+          @attr name org.project.harsh.fblind:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarTabTextStyle
+          @attr name org.project.harsh.fblind:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarTheme
+          @attr name org.project.harsh.fblind:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionBarWidgetTheme
+          @attr name org.project.harsh.fblind:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionButtonStyle
+          @attr name org.project.harsh.fblind:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionDropDownStyle
+          @attr name org.project.harsh.fblind:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionMenuTextAppearance
+          @attr name org.project.harsh.fblind:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4840,181 +4840,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name project.com.fblind.pr:actionMenuTextColor
+          @attr name org.project.harsh.fblind:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeBackground
+          @attr name org.project.harsh.fblind:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeCloseButtonStyle
+          @attr name org.project.harsh.fblind:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeCloseDrawable
+          @attr name org.project.harsh.fblind:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeCopyDrawable
+          @attr name org.project.harsh.fblind:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeCutDrawable
+          @attr name org.project.harsh.fblind:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeFindDrawable
+          @attr name org.project.harsh.fblind:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModePasteDrawable
+          @attr name org.project.harsh.fblind:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModePopupWindowStyle
+          @attr name org.project.harsh.fblind:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeSelectAllDrawable
+          @attr name org.project.harsh.fblind:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeShareDrawable
+          @attr name org.project.harsh.fblind:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeSplitBackground
+          @attr name org.project.harsh.fblind:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeStyle
+          @attr name org.project.harsh.fblind:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionModeWebSearchDrawable
+          @attr name org.project.harsh.fblind:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionOverflowButtonStyle
+          @attr name org.project.harsh.fblind:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionOverflowMenuStyle
+          @attr name org.project.harsh.fblind:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:activityChooserViewStyle
+          @attr name org.project.harsh.fblind:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:alertDialogButtonGroupStyle
+          @attr name org.project.harsh.fblind:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5024,27 +5024,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:alertDialogCenterButtons
+          @attr name org.project.harsh.fblind:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:alertDialogStyle
+          @attr name org.project.harsh.fblind:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:alertDialogTheme
+          @attr name org.project.harsh.fblind:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5060,117 +5060,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:autoCompleteTextViewStyle
+          @attr name org.project.harsh.fblind:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:borderlessButtonStyle
+          @attr name org.project.harsh.fblind:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:buttonBarButtonStyle
+          @attr name org.project.harsh.fblind:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:buttonBarNegativeButtonStyle
+          @attr name org.project.harsh.fblind:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:buttonBarNeutralButtonStyle
+          @attr name org.project.harsh.fblind:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:buttonBarPositiveButtonStyle
+          @attr name org.project.harsh.fblind:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:buttonBarStyle
+          @attr name org.project.harsh.fblind:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:buttonStyle
+          @attr name org.project.harsh.fblind:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:buttonStyleSmall
+          @attr name org.project.harsh.fblind:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:checkboxStyle
+          @attr name org.project.harsh.fblind:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:checkedTextViewStyle
+          @attr name org.project.harsh.fblind:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5181,11 +5181,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:colorAccent
+          @attr name org.project.harsh.fblind:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5196,11 +5196,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:colorBackgroundFloating
+          @attr name org.project.harsh.fblind:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5211,11 +5211,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:colorButtonNormal
+          @attr name org.project.harsh.fblind:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5226,11 +5226,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:colorControlActivated
+          @attr name org.project.harsh.fblind:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5241,11 +5241,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:colorControlHighlight
+          @attr name org.project.harsh.fblind:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5256,11 +5256,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:colorControlNormal
+          @attr name org.project.harsh.fblind:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorError}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorError}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5268,11 +5268,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name project.com.fblind.pr:colorError
+          @attr name org.project.harsh.fblind:colorError
         */
         public static final int AppCompatTheme_colorError = 118;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5283,11 +5283,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:colorPrimary
+          @attr name org.project.harsh.fblind:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5298,11 +5298,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:colorPrimaryDark
+          @attr name org.project.harsh.fblind:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5313,21 +5313,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:colorSwitchThumbNormal
+          @attr name org.project.harsh.fblind:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:controlBackground
+          @attr name org.project.harsh.fblind:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5339,51 +5339,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:dialogPreferredPadding
+          @attr name org.project.harsh.fblind:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:dialogTheme
+          @attr name org.project.harsh.fblind:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:dividerHorizontal
+          @attr name org.project.harsh.fblind:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:dividerVertical
+          @attr name org.project.harsh.fblind:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:dropDownListViewStyle
+          @attr name org.project.harsh.fblind:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5395,21 +5395,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:dropdownListPreferredItemHeight
+          @attr name org.project.harsh.fblind:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:editTextBackground
+          @attr name org.project.harsh.fblind:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5417,81 +5417,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name project.com.fblind.pr:editTextColor
+          @attr name org.project.harsh.fblind:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:editTextStyle
+          @attr name org.project.harsh.fblind:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:homeAsUpIndicator
+          @attr name org.project.harsh.fblind:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:imageButtonStyle
+          @attr name org.project.harsh.fblind:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:listChoiceBackgroundIndicator
+          @attr name org.project.harsh.fblind:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:listDividerAlertDialog
+          @attr name org.project.harsh.fblind:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:listMenuViewStyle
+          @attr name org.project.harsh.fblind:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:listPopupWindowStyle
+          @attr name org.project.harsh.fblind:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5503,11 +5503,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:listPreferredItemHeight
+          @attr name org.project.harsh.fblind:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5519,11 +5519,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:listPreferredItemHeightLarge
+          @attr name org.project.harsh.fblind:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5535,11 +5535,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:listPreferredItemHeightSmall
+          @attr name org.project.harsh.fblind:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5551,11 +5551,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:listPreferredItemPaddingLeft
+          @attr name org.project.harsh.fblind:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5567,31 +5567,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:listPreferredItemPaddingRight
+          @attr name org.project.harsh.fblind:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:panelBackground
+          @attr name org.project.harsh.fblind:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:panelMenuListTheme
+          @attr name org.project.harsh.fblind:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5603,221 +5603,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:panelMenuListWidth
+          @attr name org.project.harsh.fblind:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:popupMenuStyle
+          @attr name org.project.harsh.fblind:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:popupWindowStyle
+          @attr name org.project.harsh.fblind:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:radioButtonStyle
+          @attr name org.project.harsh.fblind:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:ratingBarStyle
+          @attr name org.project.harsh.fblind:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:ratingBarStyleIndicator
+          @attr name org.project.harsh.fblind:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:ratingBarStyleSmall
+          @attr name org.project.harsh.fblind:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:searchViewStyle
+          @attr name org.project.harsh.fblind:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:seekBarStyle
+          @attr name org.project.harsh.fblind:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:selectableItemBackground
+          @attr name org.project.harsh.fblind:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:selectableItemBackgroundBorderless
+          @attr name org.project.harsh.fblind:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:spinnerDropDownItemStyle
+          @attr name org.project.harsh.fblind:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:spinnerStyle
+          @attr name org.project.harsh.fblind:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:switchStyle
+          @attr name org.project.harsh.fblind:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:textAppearanceLargePopupMenu
+          @attr name org.project.harsh.fblind:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:textAppearanceListItem
+          @attr name org.project.harsh.fblind:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:textAppearanceListItemSecondary
+          @attr name org.project.harsh.fblind:textAppearanceListItemSecondary
         */
         public static final int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:textAppearanceListItemSmall
+          @attr name org.project.harsh.fblind:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:textAppearancePopupMenuHeader
+          @attr name org.project.harsh.fblind:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:textAppearanceSearchResultSubtitle
+          @attr name org.project.harsh.fblind:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:textAppearanceSearchResultTitle
+          @attr name org.project.harsh.fblind:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:textAppearanceSmallPopupMenu
+          @attr name org.project.harsh.fblind:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5825,11 +5825,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name project.com.fblind.pr:textColorAlertDialogListItem
+          @attr name org.project.harsh.fblind:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5837,31 +5837,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name project.com.fblind.pr:textColorSearchUrl
+          @attr name org.project.harsh.fblind:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:toolbarNavigationButtonStyle
+          @attr name org.project.harsh.fblind:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:toolbarStyle
+          @attr name org.project.harsh.fblind:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#tooltipForegroundColor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#tooltipForegroundColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5869,21 +5869,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name project.com.fblind.pr:tooltipForegroundColor
+          @attr name org.project.harsh.fblind:tooltipForegroundColor
         */
         public static final int AppCompatTheme_tooltipForegroundColor = 117;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#tooltipFrameBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#tooltipFrameBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:tooltipFrameBackground
+          @attr name org.project.harsh.fblind:tooltipFrameBackground
         */
         public static final int AppCompatTheme_tooltipFrameBackground = 116;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5893,11 +5893,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowActionBar
+          @attr name org.project.harsh.fblind:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5907,11 +5907,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowActionBarOverlay
+          @attr name org.project.harsh.fblind:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5921,11 +5921,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowActionModeOverlay
+          @attr name org.project.harsh.fblind:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5940,11 +5940,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowFixedHeightMajor
+          @attr name org.project.harsh.fblind:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5959,11 +5959,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowFixedHeightMinor
+          @attr name org.project.harsh.fblind:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5978,11 +5978,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowFixedWidthMajor
+          @attr name org.project.harsh.fblind:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5997,11 +5997,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowFixedWidthMinor
+          @attr name org.project.harsh.fblind:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6016,11 +6016,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowMinWidthMajor
+          @attr name org.project.harsh.fblind:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6035,11 +6035,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowMinWidthMinor
+          @attr name org.project.harsh.fblind:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6049,7 +6049,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:windowNoTitle
+          @attr name org.project.harsh.fblind:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6058,7 +6058,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking project.com.fblind.pr:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking org.project.harsh.fblind:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6066,7 +6066,7 @@ containing a value of this type.
             0x7f0100a9
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6076,7 +6076,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:allowStacking
+          @attr name org.project.harsh.fblind:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6085,7 +6085,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha project.com.fblind.pr:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha org.project.harsh.fblind:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6097,7 +6097,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100aa
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#alpha}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6107,7 +6107,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:alpha
+          @attr name org.project.harsh.fblind:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -6129,8 +6129,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint project.com.fblind.pr:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode project.com.fblind.pr:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint org.project.harsh.fblind:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode org.project.harsh.fblind:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6146,7 +6146,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6157,11 +6157,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:buttonTint
+          @attr name org.project.harsh.fblind:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6178,7 +6178,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:buttonTintMode
+          @attr name org.project.harsh.fblind:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -6187,14 +6187,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength project.com.fblind.pr:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength project.com.fblind.pr:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength project.com.fblind.pr:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color project.com.fblind.pr:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize project.com.fblind.pr:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars project.com.fblind.pr:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars project.com.fblind.pr:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness project.com.fblind.pr:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength org.project.harsh.fblind:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength org.project.harsh.fblind:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength org.project.harsh.fblind:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color org.project.harsh.fblind:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize org.project.harsh.fblind:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars org.project.harsh.fblind:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars org.project.harsh.fblind:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness org.project.harsh.fblind:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -6210,7 +6210,7 @@ containing a value of this type.
             0x7f0100b1, 0x7f0100b2, 0x7f0100b3, 0x7f0100b4
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6222,11 +6222,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:arrowHeadLength
+          @attr name org.project.harsh.fblind:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6238,11 +6238,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:arrowShaftLength
+          @attr name org.project.harsh.fblind:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#barLength}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6254,11 +6254,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:barLength
+          @attr name org.project.harsh.fblind:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#color}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6269,11 +6269,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:color
+          @attr name org.project.harsh.fblind:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6285,11 +6285,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:drawableSize
+          @attr name org.project.harsh.fblind:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6301,11 +6301,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:gapBetweenBars
+          @attr name org.project.harsh.fblind:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6315,11 +6315,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:spinBars
+          @attr name org.project.harsh.fblind:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#thickness}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6331,7 +6331,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:thickness
+          @attr name org.project.harsh.fblind:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FontFamily.
@@ -6340,12 +6340,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderAuthority project.com.fblind.pr:fontProviderAuthority}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderCerts project.com.fblind.pr:fontProviderCerts}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy project.com.fblind.pr:fontProviderFetchStrategy}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout project.com.fblind.pr:fontProviderFetchTimeout}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderPackage project.com.fblind.pr:fontProviderPackage}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderQuery project.com.fblind.pr:fontProviderQuery}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderAuthority org.project.harsh.fblind:fontProviderAuthority}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderCerts org.project.harsh.fblind:fontProviderCerts}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy org.project.harsh.fblind:fontProviderFetchStrategy}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout org.project.harsh.fblind:fontProviderFetchTimeout}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderPackage org.project.harsh.fblind:fontProviderPackage}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderQuery org.project.harsh.fblind:fontProviderQuery}</code></td><td></td></tr>
            </table>
            @see #FontFamily_fontProviderAuthority
            @see #FontFamily_fontProviderCerts
@@ -6359,7 +6359,7 @@ containing a value of this type.
             0x7f0100b9, 0x7f0100ba
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontProviderAuthority}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontProviderAuthority}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6369,21 +6369,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:fontProviderAuthority
+          @attr name org.project.harsh.fblind:fontProviderAuthority
         */
         public static final int FontFamily_fontProviderAuthority = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontProviderCerts}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontProviderCerts}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:fontProviderCerts
+          @attr name org.project.harsh.fblind:fontProviderCerts
         */
         public static final int FontFamily_fontProviderCerts = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontProviderFetchStrategy}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontProviderFetchStrategy}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6396,11 +6396,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>blocking</code></td><td>0</td><td></td></tr>
 <tr><td><code>async</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:fontProviderFetchStrategy
+          @attr name org.project.harsh.fblind:fontProviderFetchStrategy
         */
         public static final int FontFamily_fontProviderFetchStrategy = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontProviderFetchTimeout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontProviderFetchTimeout}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6418,11 +6418,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>forever</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:fontProviderFetchTimeout
+          @attr name org.project.harsh.fblind:fontProviderFetchTimeout
         */
         public static final int FontFamily_fontProviderFetchTimeout = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontProviderPackage}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontProviderPackage}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6432,11 +6432,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:fontProviderPackage
+          @attr name org.project.harsh.fblind:fontProviderPackage
         */
         public static final int FontFamily_fontProviderPackage = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontProviderQuery}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontProviderQuery}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -6446,7 +6446,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:fontProviderQuery
+          @attr name org.project.harsh.fblind:fontProviderQuery
         */
         public static final int FontFamily_fontProviderQuery = 2;
         /** Attributes that can be used with a FontFamilyFont.
@@ -6458,9 +6458,9 @@ containing a value of this type.
            <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
            <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_font project.com.fblind.pr:font}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontStyle project.com.fblind.pr:fontStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontWeight project.com.fblind.pr:fontWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_font org.project.harsh.fblind:font}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontStyle org.project.harsh.fblind:fontStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontWeight org.project.harsh.fblind:fontWeight}</code></td><td></td></tr>
            </table>
            @see #FontFamilyFont_android_font
            @see #FontFamilyFont_android_fontStyle
@@ -6492,17 +6492,17 @@ containing a value of this type.
         */
         public static final int FontFamilyFont_android_fontWeight = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#font}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#font}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:font
+          @attr name org.project.harsh.fblind:font
         */
         public static final int FontFamilyFont_font = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontStyle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontStyle}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
@@ -6515,11 +6515,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>italic</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:fontStyle
+          @attr name org.project.harsh.fblind:fontStyle
         */
         public static final int FontFamilyFont_fontStyle = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontWeight}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontWeight}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
@@ -6529,7 +6529,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:fontWeight
+          @attr name org.project.harsh.fblind:fontWeight
         */
         public static final int FontFamilyFont_fontWeight = 5;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -6543,10 +6543,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider project.com.fblind.pr:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding project.com.fblind.pr:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild project.com.fblind.pr:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers project.com.fblind.pr:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider org.project.harsh.fblind:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding org.project.harsh.fblind:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild org.project.harsh.fblind:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers org.project.harsh.fblind:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -6594,17 +6594,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#divider}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:divider
+          @attr name org.project.harsh.fblind:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6616,11 +6616,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:dividerPadding
+          @attr name org.project.harsh.fblind:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6630,11 +6630,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:measureWithLargestChild
+          @attr name org.project.harsh.fblind:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6649,7 +6649,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:showDividers
+          @attr name org.project.harsh.fblind:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -6788,10 +6788,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout project.com.fblind.pr:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass project.com.fblind.pr:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass project.com.fblind.pr:actionViewClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_alphabeticModifiers project.com.fblind.pr:alphabeticModifiers}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout org.project.harsh.fblind:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass org.project.harsh.fblind:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass org.project.harsh.fblind:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_alphabeticModifiers org.project.harsh.fblind:alphabeticModifiers}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -6805,12 +6805,12 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_contentDescription project.com.fblind.pr:contentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_iconTint project.com.fblind.pr:iconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_iconTintMode project.com.fblind.pr:iconTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_numericModifiers project.com.fblind.pr:numericModifiers}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction project.com.fblind.pr:showAsAction}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_tooltipText project.com.fblind.pr:tooltipText}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_contentDescription org.project.harsh.fblind:contentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_iconTint org.project.harsh.fblind:iconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_iconTintMode org.project.harsh.fblind:iconTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_numericModifiers org.project.harsh.fblind:numericModifiers}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction org.project.harsh.fblind:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_tooltipText org.project.harsh.fblind:tooltipText}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -6845,17 +6845,17 @@ containing a value of this type.
             0x7f0100c8, 0x7f0100c9, 0x7f0100ca
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:actionLayout
+          @attr name org.project.harsh.fblind:actionLayout
         */
         public static final int MenuItem_actionLayout = 16;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6865,11 +6865,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:actionProviderClass
+          @attr name org.project.harsh.fblind:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 18;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6879,11 +6879,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:actionViewClass
+          @attr name org.project.harsh.fblind:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 17;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#alphabeticModifiers}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#alphabeticModifiers}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6900,7 +6900,7 @@ containing a value of this type.
 <tr><td><code>SYM</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:alphabeticModifiers
+          @attr name org.project.harsh.fblind:alphabeticModifiers
         */
         public static final int MenuItem_alphabeticModifiers = 13;
         /**
@@ -6982,7 +6982,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentDescription}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentDescription}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6992,11 +6992,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentDescription
+          @attr name org.project.harsh.fblind:contentDescription
         */
         public static final int MenuItem_contentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#iconTint}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#iconTint}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7007,11 +7007,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:iconTint
+          @attr name org.project.harsh.fblind:iconTint
         */
         public static final int MenuItem_iconTint = 21;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#iconTintMode}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#iconTintMode}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7028,11 +7028,11 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:iconTintMode
+          @attr name org.project.harsh.fblind:iconTintMode
         */
         public static final int MenuItem_iconTintMode = 22;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#numericModifiers}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#numericModifiers}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7049,11 +7049,11 @@ containing a value of this type.
 <tr><td><code>SYM</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:numericModifiers
+          @attr name org.project.harsh.fblind:numericModifiers
         */
         public static final int MenuItem_numericModifiers = 14;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7069,11 +7069,11 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:showAsAction
+          @attr name org.project.harsh.fblind:showAsAction
         */
         public static final int MenuItem_showAsAction = 15;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#tooltipText}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#tooltipText}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7083,7 +7083,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:tooltipText
+          @attr name org.project.harsh.fblind:tooltipText
         */
         public static final int MenuItem_tooltipText = 20;
         /** Attributes that can be used with a MenuView.
@@ -7099,8 +7099,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing project.com.fblind.pr:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow project.com.fblind.pr:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing org.project.harsh.fblind:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow org.project.harsh.fblind:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -7160,7 +7160,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -7170,17 +7170,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:preserveIconSpacing
+          @attr name org.project.harsh.fblind:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:subMenuArrow
+          @attr name org.project.harsh.fblind:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a PopupWindow.
@@ -7191,7 +7191,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor project.com.fblind.pr:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor org.project.harsh.fblind:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -7213,7 +7213,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -7223,7 +7223,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:overlapAnchor
+          @attr name org.project.harsh.fblind:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -7232,7 +7232,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor project.com.fblind.pr:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor org.project.harsh.fblind:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -7240,7 +7240,7 @@ containing a value of this type.
             0x7f0100ce
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -7250,7 +7250,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:state_above_anchor
+          @attr name org.project.harsh.fblind:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -7259,8 +7259,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons project.com.fblind.pr:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle project.com.fblind.pr:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons org.project.harsh.fblind:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle org.project.harsh.fblind:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -7269,7 +7269,7 @@ containing a value of this type.
             0x7f0100cf, 0x7f0100d0
         };
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -7281,11 +7281,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:paddingBottomNoButtons
+          @attr name org.project.harsh.fblind:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -7297,7 +7297,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:paddingTopNoTitle
+          @attr name org.project.harsh.fblind:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a SearchView.
@@ -7310,19 +7310,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon project.com.fblind.pr:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon project.com.fblind.pr:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint project.com.fblind.pr:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon project.com.fblind.pr:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault project.com.fblind.pr:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout project.com.fblind.pr:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground project.com.fblind.pr:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint project.com.fblind.pr:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon project.com.fblind.pr:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon project.com.fblind.pr:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground project.com.fblind.pr:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout project.com.fblind.pr:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon project.com.fblind.pr:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon org.project.harsh.fblind:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon org.project.harsh.fblind:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint org.project.harsh.fblind:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon org.project.harsh.fblind:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault org.project.harsh.fblind:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout org.project.harsh.fblind:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground org.project.harsh.fblind:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint org.project.harsh.fblind:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon org.project.harsh.fblind:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon org.project.harsh.fblind:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground org.project.harsh.fblind:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout org.project.harsh.fblind:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon org.project.harsh.fblind:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -7374,27 +7374,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:closeIcon
+          @attr name org.project.harsh.fblind:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:commitIcon
+          @attr name org.project.harsh.fblind:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7404,21 +7404,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:defaultQueryHint
+          @attr name org.project.harsh.fblind:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:goIcon
+          @attr name org.project.harsh.fblind:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7428,31 +7428,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:iconifiedByDefault
+          @attr name org.project.harsh.fblind:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#layout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:layout
+          @attr name org.project.harsh.fblind:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:queryBackground
+          @attr name org.project.harsh.fblind:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7462,57 +7462,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:queryHint
+          @attr name org.project.harsh.fblind:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:searchHintIcon
+          @attr name org.project.harsh.fblind:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:searchIcon
+          @attr name org.project.harsh.fblind:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:submitBackground
+          @attr name org.project.harsh.fblind:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:suggestionRowLayout
+          @attr name org.project.harsh.fblind:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:voiceIcon
+          @attr name org.project.harsh.fblind:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -7525,7 +7525,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme project.com.fblind.pr:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme org.project.harsh.fblind:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -7562,13 +7562,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:popupTheme
+          @attr name org.project.harsh.fblind:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -7580,17 +7580,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText project.com.fblind.pr:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack project.com.fblind.pr:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth project.com.fblind.pr:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding project.com.fblind.pr:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance project.com.fblind.pr:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding project.com.fblind.pr:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint project.com.fblind.pr:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode project.com.fblind.pr:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track project.com.fblind.pr:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint project.com.fblind.pr:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode project.com.fblind.pr:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText org.project.harsh.fblind:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack org.project.harsh.fblind:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth org.project.harsh.fblind:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding org.project.harsh.fblind:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance org.project.harsh.fblind:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding org.project.harsh.fblind:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint org.project.harsh.fblind:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode org.project.harsh.fblind:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track org.project.harsh.fblind:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint org.project.harsh.fblind:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode org.project.harsh.fblind:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -7632,7 +7632,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#showText}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7642,11 +7642,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:showText
+          @attr name org.project.harsh.fblind:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7656,11 +7656,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:splitTrack
+          @attr name org.project.harsh.fblind:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7672,11 +7672,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:switchMinWidth
+          @attr name org.project.harsh.fblind:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7688,21 +7688,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:switchPadding
+          @attr name org.project.harsh.fblind:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:switchTextAppearance
+          @attr name org.project.harsh.fblind:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7714,11 +7714,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:thumbTextPadding
+          @attr name org.project.harsh.fblind:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7729,11 +7729,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:thumbTint
+          @attr name org.project.harsh.fblind:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7750,21 +7750,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:thumbTintMode
+          @attr name org.project.harsh.fblind:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#track}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:track
+          @attr name org.project.harsh.fblind:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7775,11 +7775,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:trackTint
+          @attr name org.project.harsh.fblind:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7796,7 +7796,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:trackTintMode
+          @attr name org.project.harsh.fblind:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TextAppearance.
@@ -7816,8 +7816,8 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_fontFamily project.com.fblind.pr:fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps project.com.fblind.pr:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_fontFamily org.project.harsh.fblind:fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps org.project.harsh.fblind:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_fontFamily
            @see #TextAppearance_android_shadowColor
@@ -7906,7 +7906,7 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#fontFamily}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#fontFamily}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
@@ -7916,18 +7916,18 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:fontFamily
+          @attr name org.project.harsh.fblind:fontFamily
         */
         public static final int TextAppearance_fontFamily = 12;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name project.com.fblind.pr:textAllCaps
+          @attr name org.project.harsh.fblind:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 11;
         /** Attributes that can be used with a Toolbar.
@@ -7938,33 +7938,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity project.com.fblind.pr:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription project.com.fblind.pr:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon project.com.fblind.pr:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd project.com.fblind.pr:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions project.com.fblind.pr:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft project.com.fblind.pr:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight project.com.fblind.pr:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart project.com.fblind.pr:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation project.com.fblind.pr:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo project.com.fblind.pr:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription project.com.fblind.pr:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight project.com.fblind.pr:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription project.com.fblind.pr:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon project.com.fblind.pr:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme project.com.fblind.pr:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle project.com.fblind.pr:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance project.com.fblind.pr:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor project.com.fblind.pr:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title project.com.fblind.pr:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin project.com.fblind.pr:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom project.com.fblind.pr:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd project.com.fblind.pr:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart project.com.fblind.pr:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop project.com.fblind.pr:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins project.com.fblind.pr:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance project.com.fblind.pr:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor project.com.fblind.pr:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity org.project.harsh.fblind:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription org.project.harsh.fblind:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon org.project.harsh.fblind:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd org.project.harsh.fblind:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions org.project.harsh.fblind:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft org.project.harsh.fblind:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight org.project.harsh.fblind:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart org.project.harsh.fblind:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation org.project.harsh.fblind:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo org.project.harsh.fblind:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription org.project.harsh.fblind:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight org.project.harsh.fblind:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription org.project.harsh.fblind:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon org.project.harsh.fblind:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme org.project.harsh.fblind:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle org.project.harsh.fblind:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance org.project.harsh.fblind:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor org.project.harsh.fblind:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title org.project.harsh.fblind:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin org.project.harsh.fblind:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom org.project.harsh.fblind:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd org.project.harsh.fblind:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart org.project.harsh.fblind:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop org.project.harsh.fblind:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins org.project.harsh.fblind:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance org.project.harsh.fblind:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor org.project.harsh.fblind:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -8019,7 +8019,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8032,11 +8032,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:buttonGravity
+          @attr name org.project.harsh.fblind:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8046,21 +8046,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:collapseContentDescription
+          @attr name org.project.harsh.fblind:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:collapseIcon
+          @attr name org.project.harsh.fblind:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8072,11 +8072,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetEnd
+          @attr name org.project.harsh.fblind:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8088,11 +8088,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetEndWithActions
+          @attr name org.project.harsh.fblind:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8104,11 +8104,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetLeft
+          @attr name org.project.harsh.fblind:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8120,11 +8120,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetRight
+          @attr name org.project.harsh.fblind:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8136,11 +8136,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetStart
+          @attr name org.project.harsh.fblind:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8152,21 +8152,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:contentInsetStartWithNavigation
+          @attr name org.project.harsh.fblind:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#logo}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:logo
+          @attr name org.project.harsh.fblind:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8176,11 +8176,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:logoDescription
+          @attr name org.project.harsh.fblind:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8192,11 +8192,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:maxButtonHeight
+          @attr name org.project.harsh.fblind:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8206,31 +8206,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:navigationContentDescription
+          @attr name org.project.harsh.fblind:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:navigationIcon
+          @attr name org.project.harsh.fblind:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:popupTheme
+          @attr name org.project.harsh.fblind:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8240,21 +8240,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:subtitle
+          @attr name org.project.harsh.fblind:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:subtitleTextAppearance
+          @attr name org.project.harsh.fblind:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8265,11 +8265,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:subtitleTextColor
+          @attr name org.project.harsh.fblind:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#title}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8279,11 +8279,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:title
+          @attr name org.project.harsh.fblind:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8295,11 +8295,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:titleMargin
+          @attr name org.project.harsh.fblind:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8311,11 +8311,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:titleMarginBottom
+          @attr name org.project.harsh.fblind:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8327,11 +8327,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:titleMarginEnd
+          @attr name org.project.harsh.fblind:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8343,11 +8343,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:titleMarginStart
+          @attr name org.project.harsh.fblind:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8359,11 +8359,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:titleMarginTop
+          @attr name org.project.harsh.fblind:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8375,21 +8375,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:titleMargins
+          @attr name org.project.harsh.fblind:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:titleTextAppearance
+          @attr name org.project.harsh.fblind:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8400,7 +8400,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:titleTextColor
+          @attr name org.project.harsh.fblind:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -8411,9 +8411,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd project.com.fblind.pr:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart project.com.fblind.pr:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme project.com.fblind.pr:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd org.project.harsh.fblind:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart org.project.harsh.fblind:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme org.project.harsh.fblind:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -8438,7 +8438,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8450,11 +8450,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:paddingEnd
+          @attr name org.project.harsh.fblind:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8466,17 +8466,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:paddingStart
+          @attr name org.project.harsh.fblind:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#theme}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name project.com.fblind.pr:theme
+          @attr name org.project.harsh.fblind:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -8486,8 +8486,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint project.com.fblind.pr:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode project.com.fblind.pr:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint org.project.harsh.fblind:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode org.project.harsh.fblind:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -8503,7 +8503,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -8514,11 +8514,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name project.com.fblind.pr:backgroundTint
+          @attr name org.project.harsh.fblind:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link project.com.fblind.pr.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link org.project.harsh.fblind.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -8535,7 +8535,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name project.com.fblind.pr:backgroundTintMode
+          @attr name org.project.harsh.fblind:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
