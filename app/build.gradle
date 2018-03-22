@@ -5,8 +5,8 @@ android {
     buildToolsVersion "27.0.3"
 
     defaultConfig {
-        applicationId "ar.com.lrusso.blindcommunicator"
-        minSdkVersion 23
+        applicationId "project.com.fblind.pr"
+        minSdkVersion 19
         targetSdkVersion 27
     }
 

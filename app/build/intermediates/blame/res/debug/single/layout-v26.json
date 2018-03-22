@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4582bdebba1f23377236c3f1f6a57614\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
         "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\layout-v26\\abc_screen_toolbar.xml"
     }

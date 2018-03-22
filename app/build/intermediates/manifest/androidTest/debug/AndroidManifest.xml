@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ar.com.lrusso.blindcommunicator.test">
+    package="project.com.fblind.pr.test">
 
-    <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="27" />
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="27" />
 
     <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="ar.com.lrusso.blindcommunicator"
+                     android:targetPackage="project.com.fblind.pr"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for ar.com.lrusso.blindcommunicator"/>
+                     android:label="Tests for project.com.fblind.pr"/>
 </manifest>
