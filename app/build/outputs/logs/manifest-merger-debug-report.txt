@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-372:12
-INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-372:12
-INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-372:12
-INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-372:12
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-264:12
+INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-264:12
+INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-264:12
+INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-264:12
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\4582bdebba1f23377236c3f1f6a57614\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\67b7357cd9c8f664c3b3f01a5d62219b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\8df490470a4c68615a2744cd5e6c1bed\AndroidManifest.xml:17:1-22:12
@@ -14,11 +14,11 @@ MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Harsh Gup
 MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\48360da0f476f961548a416884cc4e37\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\86ce37cec3eb2ba732d72f2e87ec901a\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Harsh Gupta\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\92334de6e96767a478c2b4909d0fb74b\AndroidManifest.xml:17:1-24:12
-INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-372:12
-INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-372:12
-INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-372:12
+INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-264:12
+INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-264:12
+INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:2:1-264:12
 	package
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:3:5-46
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml
 		INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -172,7 +172,7 @@ ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:39:5-44:41
 	android:anyDensity
 		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:44:14-39
 application
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:46:5-371:19
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:46:5-263:19
 	android:label
 		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:49:9-41
 	android:icon
@@ -181,7 +181,7 @@ ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:46:5-371:19
 		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:47:9-35
 	android:theme
 		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:50:9-40
-activity#ar.com.lrusso.blindcommunicator.Main
+activity#org.project.harsh.fblind.Main
 ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:52:9-64:20
 	android:label
 		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:54:13-56
@@ -192,7 +192,7 @@ ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:52:9-64:20
 	android:theme
 		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:57:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:55:13-64
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:55:13-57
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME+android.intent.category.LAUNCHER
 ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:58:13-63:29
 action#android.intent.action.MAIN
@@ -211,518 +211,328 @@ category#android.intent.category.LAUNCHER
 ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:62:17-77
 	android:name
 		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:62:27-74
-activity#ar.com.lrusso.blindcommunicator.BookmarksList
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:66:9-71:73
+activity#org.project.harsh.fblind.Browser
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:69:9-74:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:68:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:71:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:67:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:70:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:70:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:73:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:71:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:74:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:69:13-73
-activity#ar.com.lrusso.blindcommunicator.BookmarksDelete
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:73:9-78:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:72:13-60
+activity#org.project.harsh.fblind.Settings
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:75:9-80:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:75:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:77:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:74:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:76:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:77:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:79:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:78:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:80:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:76:13-75
-activity#ar.com.lrusso.blindcommunicator.Browser
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:80:9-85:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:78:13-61
+activity#org.project.harsh.fblind.MusicPlayer
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:82:9-87:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:82:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:84:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:81:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:83:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:84:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:86:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:85:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:87:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:83:13-67
-activity#ar.com.lrusso.blindcommunicator.BrowserPageViewer
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:87:9-92:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:85:13-64
+activity#org.project.harsh.fblind.Messages
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:90:9-95:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:89:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:92:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:88:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:91:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:91:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:94:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:92:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:95:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:90:13-77
-activity#ar.com.lrusso.blindcommunicator.Applications
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:94:3-99:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:93:13-61
+activity#org.project.harsh.fblind.MessagesInbox
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:97:9-102:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:96:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:99:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:95:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:98:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:98:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:101:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:99:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:102:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:97:13-72
-activity#ar.com.lrusso.blindcommunicator.VoiceRecorder
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:101:3-106:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:100:13-66
+activity#org.project.harsh.fblind.MessagesSent
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:104:9-109:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:103:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:106:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:102:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:105:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:105:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:108:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:106:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:109:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:104:13-73
-activity#ar.com.lrusso.blindcommunicator.VoiceRecorderCreate
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:108:3-113:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:107:13-65
+activity#org.project.harsh.fblind.MessagesSentDeleteAll
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:111:9-116:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:110:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:113:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:109:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:112:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:112:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:115:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:113:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:116:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:111:13-79
-activity#ar.com.lrusso.blindcommunicator.VoiceRecorderList
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:115:3-120:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:114:13-74
+activity#org.project.harsh.fblind.MessagesCompose
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:118:9-123:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:117:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:120:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:116:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:119:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:119:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:122:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:120:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:123:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:118:13-77
-activity#ar.com.lrusso.blindcommunicator.VoiceRecorderDelete
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:122:3-127:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:121:13-68
+activity#org.project.harsh.fblind.MessagesDelete
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:125:9-130:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:124:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:127:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:123:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:126:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:126:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:129:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:127:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:130:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:125:13-79
-activity#ar.com.lrusso.blindcommunicator.Alarms
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:129:9-134:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:128:13-67
+activity#org.project.harsh.fblind.MessagesInboxDeleteAll
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:132:9-137:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:131:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:134:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:130:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:133:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:133:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:136:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:134:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:137:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:132:13-66
-activity#ar.com.lrusso.blindcommunicator.AlarmsList
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:136:9-141:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:135:13-75
+activity#org.project.harsh.fblind.Calls
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:139:9-144:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:138:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:141:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:137:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:140:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:140:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:143:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:141:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:144:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:139:13-70
-activity#ar.com.lrusso.blindcommunicator.AlarmsCreate
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:143:9-148:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:142:13-58
+activity#org.project.harsh.fblind.CallsMake
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:146:9-151:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:145:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:148:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:144:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:147:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:147:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:150:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:148:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:151:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:146:13-72
-activity#ar.com.lrusso.blindcommunicator.AlarmsDelete
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:150:9-155:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:149:13-62
+activity#org.project.harsh.fblind.CallsLogs
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:153:9-158:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:152:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:155:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:151:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:154:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:154:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:157:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:155:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:158:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:153:13-72
-activity#ar.com.lrusso.blindcommunicator.AlarmsDeleteAll
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:157:9-162:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:156:13-62
+activity#org.project.harsh.fblind.CallsLogsDelete
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:160:9-165:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:159:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:162:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:158:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:161:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:161:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:164:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:162:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:165:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:160:13-75
-activity#ar.com.lrusso.blindcommunicator.AlarmsNotifier
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:164:9-169:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:163:13-68
+activity#org.project.harsh.fblind.Contacts
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:167:9-172:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:166:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:169:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:165:13-43
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:168:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:168:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:171:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:169:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:172:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:167:13-74
-activity#ar.com.lrusso.blindcommunicator.Settings
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:171:9-176:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:170:13-61
+activity#org.project.harsh.fblind.ContactsCreate
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:174:9-179:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:173:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:176:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:172:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:175:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:175:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:178:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:176:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:179:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:174:13-68
-activity#ar.com.lrusso.blindcommunicator.MusicPlayer
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:178:9-183:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:177:13-67
+activity#org.project.harsh.fblind.ContactsDelete
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:181:9-186:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:180:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:183:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:179:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:182:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:182:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:185:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:183:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:186:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:181:13-71
-activity#ar.com.lrusso.blindcommunicator.MusicPlayerArtists
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:185:9-190:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:184:13-67
+activity#org.project.harsh.fblind.ContactsList
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:188:9-193:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:187:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:190:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:186:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:189:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:189:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:192:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:190:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:193:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:188:13-78
-activity#ar.com.lrusso.blindcommunicator.Messages
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:192:9-197:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:191:13-65
+activity#org.project.harsh.fblind.InputKeyboard
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:195:9-200:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:194:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:197:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:193:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:196:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:196:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:199:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:197:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:200:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:195:13-68
-activity#ar.com.lrusso.blindcommunicator.MessagesInbox
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:199:9-204:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:198:13-66
+activity#org.project.harsh.fblind.InputKeyboardTalkback
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:202:9-208:57
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:201:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:204:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:200:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:203:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:204:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:202:13-73
-activity#ar.com.lrusso.blindcommunicator.MessagesSent
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:206:9-211:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:208:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:207:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:210:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:211:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:209:13-72
-activity#ar.com.lrusso.blindcommunicator.MessagesSentDeleteAll
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:213:9-218:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:215:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:214:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:217:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:218:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:216:13-81
-activity#ar.com.lrusso.blindcommunicator.MessagesCompose
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:220:9-225:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:222:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:221:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:224:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:225:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:223:13-75
-activity#ar.com.lrusso.blindcommunicator.MessagesDelete
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:227:9-232:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:229:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:228:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:231:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:232:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:230:13-74
-activity#ar.com.lrusso.blindcommunicator.MessagesInboxDeleteAll
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:234:9-239:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:236:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:235:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:238:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:239:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:237:13-82
-activity#ar.com.lrusso.blindcommunicator.Calls
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:241:9-246:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:243:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:242:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:245:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:246:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:244:13-65
-activity#ar.com.lrusso.blindcommunicator.CallsMake
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:248:9-253:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:250:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:249:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:252:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:253:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:251:13-69
-activity#ar.com.lrusso.blindcommunicator.CallsLogs
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:255:9-260:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:257:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:256:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:259:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:260:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:258:13-69
-activity#ar.com.lrusso.blindcommunicator.CallsLogsDelete
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:262:9-267:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:264:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:263:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:266:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:267:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:265:13-75
-activity#ar.com.lrusso.blindcommunicator.Contacts
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:269:9-274:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:271:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:270:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:273:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:274:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:272:13-68
-activity#ar.com.lrusso.blindcommunicator.ContactsCreate
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:276:9-281:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:278:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:277:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:280:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:281:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:279:13-74
-activity#ar.com.lrusso.blindcommunicator.ContactsDelete
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:283:9-288:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:285:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:284:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:287:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:288:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:286:13-74
-activity#ar.com.lrusso.blindcommunicator.ContactsList
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:290:9-295:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:292:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:291:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:294:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:295:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:293:13-72
-activity#ar.com.lrusso.blindcommunicator.InputKeyboard
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:297:9-302:73
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:299:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:298:13-44
-	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:301:13-74
-	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:302:13-71
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:300:13-73
-activity#ar.com.lrusso.blindcommunicator.InputKeyboardTalkback
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:304:9-310:57
-	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:306:13-56
-	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:305:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:203:13-44
 	android:windowSoftInputMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:310:13-55
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:208:13-55
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:308:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:206:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:309:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:207:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:307:13-81
-activity#ar.com.lrusso.blindcommunicator.InputVoice
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:312:9-317:73
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:205:13-74
+activity#org.project.harsh.fblind.InputVoice
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:210:9-215:73
 	android:label
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:314:13-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:212:13-56
 	android:launchMode
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:313:13-44
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:211:13-44
 	android:configChanges
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:316:13-74
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:214:13-74
 	android:theme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:317:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:215:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:315:13-70
-service#ar.com.lrusso.blindcommunicator.BlindCommunicatorService
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:319:9-114
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:213:13-63
+service#org.project.harsh.fblind.BlindCommunicatorService
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:217:9-107
 	android:enabled
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:319:18-40
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:217:18-40
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:319:41-112
-receiver#ar.com.lrusso.blindcommunicator.AlarmsReceiver
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:321:9-325:20
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:321:19-80
-intent-filter#AR.COM.LRUSSO.BLINDCOMMUNICATOR.ALARM
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:322:13-324:29
-action#AR.COM.LRUSSO.BLINDCOMMUNICATOR.ALARM
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:323:17-79
-	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:323:25-77
-receiver#ar.com.lrusso.blindcommunicator.SmsReceiver
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:328:9-333:20
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:217:41-105
+receiver#org.project.harsh.fblind.SmsReceiver
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:220:9-225:20
 	android:permission
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:329:17-70
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:221:17-70
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:328:19-46
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:220:19-46
 intent-filter#android.provider.Telephony.SMS_DELIVER
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:330:13-332:29
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:222:13-224:29
 action#android.provider.Telephony.SMS_DELIVER
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:331:17-81
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:223:17-81
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:331:25-78
-receiver#ar.com.lrusso.blindcommunicator.MmsReceiver
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:336:9-342:20
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:223:25-78
+receiver#org.project.harsh.fblind.MmsReceiver
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:228:9-234:20
 	android:permission
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:337:13-71
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:229:13-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:336:19-46
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:228:19-46
 intent-filter#android.provider.Telephony.WAP_PUSH_DELIVER
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:338:13-341:29
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:230:13-233:29
 action#android.provider.Telephony.WAP_PUSH_DELIVER
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:339:17-86
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:231:17-86
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:339:25-83
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:231:25-83
 data
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:340:17-76
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:232:17-76
 	android:scheme
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:351:23-43
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:243:23-43
 	android:mimeType
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:340:23-73
-activity#ar.com.lrusso.blindcommunicator.ComposeSmsActivity
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:345:9-356:20
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:232:23-73
+activity#org.project.harsh.fblind.ComposeSmsActivity
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:237:9-248:20
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:345:19-53
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:237:19-53
 intent-filter#android.intent.action.SEND+android.intent.action.SENDTO+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:346:13-355:29
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:238:13-247:29
 action#android.intent.action.SEND
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:347:17-69
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:239:17-69
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:347:25-66
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:239:25-66
 action#android.intent.action.SENDTO
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:348:17-71
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:240:17-71
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:348:25-68
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:240:25-68
 category#android.intent.category.BROWSABLE
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:350:17-78
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:242:17-78
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:350:27-75
-service#ar.com.lrusso.blindcommunicator.HeadlessSmsSendService
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:359:9-370:19
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:242:27-75
+service#org.project.harsh.fblind.HeadlessSmsSendService
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:251:9-262:19
 	android:exported
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:361:18-41
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:253:18-41
 	android:permission
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:360:18-82
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:252:18-82
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:359:18-56
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:251:18-56
 intent-filter#android.intent.action.RESPOND_VIA_MESSAGE+android.intent.category.DEFAULT
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:362:13-369:29
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:254:13-261:29
 action#android.intent.action.RESPOND_VIA_MESSAGE
-ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:363:17-84
+ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:255:17-84
 	android:name
-		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:363:25-81
+		ADDED from F:\new\new_fblind\app\src\main\AndroidManifest.xml:255:25-81
 uses-sdk
 INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\new\new_fblind\app\src\main\AndroidManifest.xml

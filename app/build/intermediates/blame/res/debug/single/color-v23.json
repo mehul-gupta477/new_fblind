@@ -1,21 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\color-v23\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4582bdebba1f23377236c3f1f6a57614\\res\\color-v23\\abc_color_highlight_material.xml"
     },
@@ -24,36 +8,16 @@
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4582bdebba1f23377236c3f1f6a57614\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\color-v23\\abc_tint_spinner.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4582bdebba1f23377236c3f1f6a57614\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4582bdebba1f23377236c3f1f6a57614\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\color-v23\\abc_tint_default.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4582bdebba1f23377236c3f1f6a57614\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",

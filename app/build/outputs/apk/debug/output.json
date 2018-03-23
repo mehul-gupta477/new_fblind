@@ -1,1 +1,1 @@
-[{"outputType":{"type":"APK"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":44},"path":"app-debug.apk","properties":{"packageId":"ar.com.lrusso.blindcommunicator","split":"","minSdkVersion":"23"}}]
+[{"outputType":{"type":"APK"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":44},"path":"app-debug.apk","properties":{"packageId":"org.project.harsh.fblind","split":"","minSdkVersion":"19"}}]

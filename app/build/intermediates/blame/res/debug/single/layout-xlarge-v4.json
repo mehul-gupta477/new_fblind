@@ -1,153 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\voicerecordercreate.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\voicerecordercreate.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\callsanswerreject.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\callsanswerreject.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\inputvoice.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\inputvoice.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagessent.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\messagessent.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\inputkeyboard.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\inputkeyboard.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\applications.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\applications.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\browser.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\browser.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagessent.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\messagessent.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\applications.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\applications.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmsnotifier.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\alarmsnotifier.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagescompose.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\messagescompose.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagesdelete.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\messagesdelete.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\inputkeyboard.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\inputkeyboard.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contacts.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\contacts.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmslist.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\alarmslist.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\calls.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\calls.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contactscreate.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\contactscreate.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messages.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\messages.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\voicerecorderdelete.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\voicerecorderdelete.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\calls.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\calls.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messages.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\messages.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\musicplayerartist.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\musicplayerartist.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\settings.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\settings.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\voicerecordercreate.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\voicerecordercreate.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmsdeleteall.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\alarmsdeleteall.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmsnotifier.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\alarmsnotifier.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmscreate.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\alarmscreate.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\browserpageviewer.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\browserpageviewer.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\callslogsdelete.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\callslogsdelete.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\inputkeyboardtalkback.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\inputkeyboardtalkback.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmslist.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\alarmslist.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contacts.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\contacts.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contactscreate.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\contactscreate.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\callslogs.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\callslogs.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarms.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\alarms.xml"
-    },
-    {
-        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\browserpageviewer.xml",
-        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\browserpageviewer.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\voicerecorderlist.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\voicerecorderlist.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\voicerecorder.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\voicerecorder.xml"
     },
@@ -160,28 +12,8 @@
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\musicplayerartist.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\bookmarkslist.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\bookmarkslist.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contactslist.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\contactslist.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\inputvoice.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\inputvoice.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\voicerecorder.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\voicerecorder.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarms.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\alarms.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagesinbox.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\messagesinbox.xml"
     },
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\bookmarksdelete.xml",
@@ -200,14 +32,6 @@
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\voicerecorderdelete.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagessentdeleteall.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\messagessentdeleteall.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\main.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\main.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\musicplayer.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\musicplayer.xml"
     },
@@ -216,12 +40,8 @@
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\messagesinbox.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\settings.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\settings.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\musicplayer.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\musicplayer.xml"
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\inputkeyboard.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\inputkeyboard.xml"
     },
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagescompose.xml",
@@ -230,6 +50,14 @@
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmscreate.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\alarmscreate.xml"
+    },
+    {
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagessent.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\messagessent.xml"
+    },
+    {
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\applications.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\applications.xml"
     },
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmsdelete.xml",
@@ -244,40 +72,52 @@
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\bookmarkslist.xml"
     },
     {
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\calls.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\calls.xml"
+    },
+    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\main.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\main.xml"
+    },
+    {
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contactscreate.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\contactscreate.xml"
     },
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contactslist.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\contactslist.xml"
     },
     {
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messages.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\messages.xml"
+    },
+    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagesinboxdeleteall.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\messagesinboxdeleteall.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contactsdelete.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\contactsdelete.xml"
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\settings.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\settings.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\callslogsdelete.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\callslogsdelete.xml"
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\voicerecordercreate.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\voicerecordercreate.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagesinboxdeleteall.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\messagesinboxdeleteall.xml"
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmsnotifier.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\alarmsnotifier.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\callsmake.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\callsmake.xml"
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\callslogsdelete.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\callslogsdelete.xml"
     },
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\callsanswerreject.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\callsanswerreject.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\bookmarksdelete.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\bookmarksdelete.xml"
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmslist.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\alarmslist.xml"
     },
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagessentdeleteall.xml",
@@ -288,10 +128,6 @@
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\voicerecorderlist.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmsdelete.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\src\\main\\res\\layout-xlarge\\alarmsdelete.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\messagesdelete.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\messagesdelete.xml"
     },
@@ -300,7 +136,19 @@
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\callslogs.xml"
     },
     {
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\contacts.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\contacts.xml"
+    },
+    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarmsdeleteall.xml",
         "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\alarmsdeleteall.xml"
+    },
+    {
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\alarms.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\alarms.xml"
+    },
+    {
+        "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\browserpageviewer.xml",
+        "source": "F:\\new\\new_fblind\\app\\src\\main\\res\\layout-xlarge\\browserpageviewer.xml"
     }
 ]

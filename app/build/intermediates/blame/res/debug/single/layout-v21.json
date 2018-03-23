@@ -4,14 +4,6 @@
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\86ce37cec3eb2ba732d72f2e87ec901a\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\bedd2312e8b2f9336d003958aa50bd96\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\bedd2312e8b2f9336d003958aa50bd96\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\86ce37cec3eb2ba732d72f2e87ec901a\\res\\layout-v21\\notification_action.xml"
     },
@@ -20,15 +12,7 @@
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\86ce37cec3eb2ba732d72f2e87ec901a\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\bedd2312e8b2f9336d003958aa50bd96\\res\\layout-v21\\notification_action.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\86ce37cec3eb2ba732d72f2e87ec901a\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\bedd2312e8b2f9336d003958aa50bd96\\res\\layout-v21\\notification_template_custom_big.xml"
     }
 ]

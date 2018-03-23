@@ -553,7 +553,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">Blind Communicator</string>
+    <string name="app_name">Fblind</string>
     <string name="april">April</string>
     <string name="august">August</string>
     <string name="backToMainMenu">Go back to the main menu</string>
@@ -970,7 +970,7 @@
     <string name="mainSettings">Settings</string>
     <string name="mainStatus">Device status</string>
     <string name="mainVoiceRecorder">Voice recorder</string>
-    <string name="mainWelcome">Welcome to the Blind Communicator system developed by Leonardo Javier Russo. Slide up and down to browse between options and slide right to choose the selected item. If your device has a physical keyboard, you can use the directional keys. If you are using TalkBack, slide and select menus using two fingers.</string>
+    <string name="mainWelcome">Welcome to the system . </string>
     <string name="mainWifiOff">and the wifi is off.</string>
     <string name="mainWifiOnWithNetwork">and the wifi is on and connected to a wifi network named </string>
     <string name="mainWifiOnWithoutNetwork">and the wifi is on and not connected to any wifi network.</string>
@@ -990,7 +990,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Sunday</string>
     <string name="thursday">Thursday</string>
-    <string name="title_activity_main">Blind Communicator</string>
+    <string name="title_activity_main">Fblind</string>
     <string name="tuesday">Tuesday</string>
     <string name="volumeHigher">Higher volume</string>
     <string name="volumeLower">Lower volume</string>

@@ -66,7 +66,7 @@ public class Main extends Activity implements TextToSpeech.OnInitListener
 		GlobalVars.setText(alarms,false, getResources().getString(R.string.mainAlarms) + " (" + GlobalVars.getPendingAlarmsForTodayCount() + ")");
 		
 		//LIST EVERY MUSIC FILE WITH THE MEDIA INFORMATION TO USE IT WITH THE MUSIC PLAYER
-		new MusicPlayerThreadRefreshDatabase().execute("");
+		//new MusicPlayerThreadRefreshDatabase().execute("");
 		
 		//READ WEB BOOKMARKS DATABASE
 		GlobalVars.readBookmarksDatabase();
@@ -545,6 +545,7 @@ public class Main extends Activity implements TextToSpeech.OnInitListener
 			case 4: //MUSIC
 			if (GlobalVars.musicPlayerDatabaseReady==true)
 				{
+
 //				GlobalVars.startActivity(MusicPlayer.class);
 				}
 				else

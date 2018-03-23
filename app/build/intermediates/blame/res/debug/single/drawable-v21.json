@@ -4,14 +4,6 @@
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4582bdebba1f23377236c3f1f6a57614\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4582bdebba1f23377236c3f1f6a57614\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
@@ -22,13 +14,5 @@
     {
         "merged": "F:\\new\\new_fblind\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Harsh Gupta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\4582bdebba1f23377236c3f1f6a57614\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\bedd2312e8b2f9336d003958aa50bd96\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pulkit Rathi\\AndroidStudioProjects\\Blind Communicator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Pulkit Rathi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\44c97b5df2a441c5bf28529026ab74e0\\res\\drawable-v21\\abc_btn_colored_material.xml"
     }
 ]

@@ -223,7 +223,7 @@ public class MusicPlayer extends Activity
 			break;
 
 			case 7: //ARTISTS
-			GlobalVars.startActivity(MusicPlayerArtists.class);
+			//GlobalVars.startActivity(MusicPlayerArtists.class);
 			break;
 
 			case 8: //GO BACK TO THE MAIN MENU

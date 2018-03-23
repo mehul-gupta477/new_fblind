@@ -52,7 +52,7 @@
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main" 
-            android:name="ar.com.lrusso.blindcommunicator.Main"
+            android:name="org.project.harsh.fblind.Main"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
             <intent-filter>
@@ -63,248 +63,146 @@
             </intent-filter>        
         </activity>
 
+
+        
+
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.BookmarksList"
+            android:name="org.project.harsh.fblind.Browser"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        <activity
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_main"
+            android:name="org.project.harsh.fblind.Settings"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
         
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.BookmarksDelete"
+            android:name="org.project.harsh.fblind.MusicPlayer"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+
+
+        <activity
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_main"
+            android:name="org.project.harsh.fblind.Messages"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
         
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.Browser"
+            android:name="org.project.harsh.fblind.MessagesInbox"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
         
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.BrowserPageViewer"
+            android:name="org.project.harsh.fblind.MessagesSent"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
         
-		<activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.Applications"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-		
-		<activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.VoiceRecorder"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-		
-		<activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.VoiceRecorderCreate"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-		
-		<activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.VoiceRecorderList"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-		
-		<activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.VoiceRecorderDelete"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-		
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.Alarms"
+            android:name="org.project.harsh.fblind.MessagesSentDeleteAll"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        
+        <activity
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_main"
+            android:name="org.project.harsh.fblind.MessagesCompose"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        
+        <activity
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_main"
+            android:name="org.project.harsh.fblind.MessagesDelete"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        
+        <activity
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_main"
+            android:name="org.project.harsh.fblind.MessagesInboxDeleteAll"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        
+        <activity
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_main"
+            android:name="org.project.harsh.fblind.Calls"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        
+        <activity
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_main"
+            android:name="org.project.harsh.fblind.CallsMake"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
 
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.AlarmsList"
+            android:name="org.project.harsh.fblind.CallsLogs"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
 
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.AlarmsCreate"
+            android:name="org.project.harsh.fblind.CallsLogsDelete"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        
+        <activity
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_main"
+            android:name="org.project.harsh.fblind.Contacts"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        
+        <activity
+            android:launchMode="singleTask"
+            android:label="@string/title_activity_main"
+            android:name="org.project.harsh.fblind.ContactsCreate"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
 
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.AlarmsDelete"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.AlarmsDeleteAll"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTop"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.AlarmsNotifier"
+            android:name="org.project.harsh.fblind.ContactsDelete"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
         
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.Settings"
+            android:name="org.project.harsh.fblind.ContactsList"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
         
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.MusicPlayer"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.MusicPlayerArtists"
+            android:name="org.project.harsh.fblind.InputKeyboard"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
         
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.Messages"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.MessagesInbox"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.MessagesSent"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.MessagesSentDeleteAll"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.MessagesCompose"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.MessagesDelete"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.MessagesInboxDeleteAll"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.Calls"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.CallsMake"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.CallsLogs"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.CallsLogsDelete"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.Contacts"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.ContactsCreate"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.ContactsDelete"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.ContactsList"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.InputKeyboard"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
-        
-        <activity
-            android:launchMode="singleTask"
-            android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.InputKeyboardTalkback"
+            android:name="org.project.harsh.fblind.InputKeyboardTalkback"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
             android:windowSoftInputMode="stateVisible"/>
@@ -312,17 +210,11 @@
         <activity
             android:launchMode="singleTask"
             android:label="@string/title_activity_main"
-            android:name="ar.com.lrusso.blindcommunicator.InputVoice"
+            android:name="org.project.harsh.fblind.InputVoice"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
 
-        <service android:enabled="true" android:name="ar.com.lrusso.blindcommunicator.BlindCommunicatorService"/>
-        
-        <receiver android:name="ar.com.lrusso.blindcommunicator.AlarmsReceiver">
-            <intent-filter>
-                <action android:name="AR.COM.LRUSSO.BLINDCOMMUNICATOR.ALARM"/>
-            </intent-filter>
-        </receiver>
+        <service android:enabled="true" android:name="org.project.harsh.fblind.BlindCommunicatorService"/>
         
         <!-- BroadcastReceiver that listens for incoming SMS messages -->
         <receiver android:name=".SmsReceiver"
